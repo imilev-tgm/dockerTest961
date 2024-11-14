@@ -1,0 +1,20 @@
+[
+  {
+    "username": "adminUser",
+    "email": "admin@example.com",
+    "password": "securePassword1",
+    "roles": ["ADMIN"]
+  },
+  {
+    "username": "moderatorUser",
+    "email": "moderator@example.com",
+    "password": "securePassword2",
+    "roles": ["MODERATOR"]
+  },
+  {
+    "username": "readerUser",
+    "email": "reader@example.com",
+    "password": "securePassword3",
+    "roles": ["READER"]
+  }
+]
